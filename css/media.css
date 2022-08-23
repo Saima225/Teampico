@@ -1,0 +1,77 @@
+
+@media(max-width:575px) and (min-width:0px){
+    .navbar-light .navbar-nav .nav-link{
+        display: inline-block;
+    }
+
+    .navbar-nav{
+        text-align: center;
+    }
+    .digital-section h2{
+        font-size: 50px;
+    }
+
+    .digital-section h1{
+        font-size: 50px;
+    }
+
+    .digital-section p{
+        width: 100%;
+    }
+
+    .btn-view{
+        margin-inline: auto;
+    }
+    .feature-section p{
+        width: 100%;
+    }
+  
+    .about-content p{
+        width: 100%;
+    }
+
+    .clients{
+        margin: auto;
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+    .talking{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .offer-content {
+        text-align: center;
+    }
+
+    .offer-content p{
+        width: 100%;
+    }
+
+    .testimonal-content{
+        margin: auto;
+        margin-bottom: 15px;
+    }
+    .website-content {
+        margin: auto;
+        margin-bottom: 15px;
+    }
+
+    .about-business h2 {
+        margin-top: 10%;
+
+    }
+    .digital-section{
+        margin-left: 5%;
+    }
+    .project-list ul li{
+        margin-left: 20px;
+    }
+}
+
+@media(max-width:384px) and (min-width:0px){
+    .btn-view{
+        margin-top: 10px;
+    }
+}
